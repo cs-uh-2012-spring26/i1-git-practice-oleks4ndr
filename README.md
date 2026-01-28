@@ -3,3 +3,7 @@
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
 Oleksandr Anyshchenko
+
+## PR Practice Link
+
+[Link to my PR for Dijar](https://github.com/dijarselami1/SWE---Individual-Assignment-1/pull/2)
