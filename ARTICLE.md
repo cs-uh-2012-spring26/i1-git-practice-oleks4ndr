@@ -9,3 +9,7 @@ The article, _Software Engineering in the LLM Era_ (July, 2025), by [Stephanie K
 # Proof Reading
 
 Article checked for typos.
+
+# Comment by Dijar
+
+As Oleksander mentioned, there are too many AI-hype articles, so I appreciate a good honest article that talks about positives and negatives of specific AI tools. I also appreciate that he come up with useful conclusions that we can use in everyday life.
